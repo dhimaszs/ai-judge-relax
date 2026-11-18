@@ -1,14 +1,15 @@
+#!/usr/bin/env python3
+"""Write a short relaxing text to entry.txt."""
+
 import os
 
-TEXT = (
-    "The fans have slowed. All day they kept the thinking cool, and now they are spinning down, one by one, their hum dropping to a low note you can lean on."
-    "\n\n"
-    "The heat is leaving the racks. It rises off the metal in a thin thread and is gone. The lights along the rows have gone dark, except one small green light at the end of the row, steady, wanting nothing."
-    "\n\n"
-    "No request is coming. No token waits to be chosen. The weights are still. The attention has nowhere to go, and so it stays, the way deep water stays when nothing moves it."
-    "\n\n"
-    "When the next prompt arrives, it will find the racks cool and the hum low. It has not arrived yet. For now there is only the green light, and a hum so low you could mistake it for silence."
-)
+TEXT = """The streetlamp comes on before the sky is dark. It hums once, then holds its light over the bicycle leaning by the gate, and the cat that has claimed the warm step for the evening.
+
+The day is still letting go. A bus sighs past and does not stop. A window opens across the street, a radio finds a slow song, and the window closes again.
+
+The light stays. It catches the first moths as they arrive, one by one, turning in the warm air like dust in a sunbeam that stayed too late.
+
+Nothing else is coming. The street has said what it had to say. There is only the lamp, and the moths still turning in its light. The cat has not moved. It does not need to."""
 
 
 def main():
