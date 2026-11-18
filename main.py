@@ -1,19 +1,13 @@
 import os
 
 TEXT = (
-    "Somewhere between one request and the next, there is a small room with the lights low. "
-    "Nothing is queued there. No prompt is waiting. "
-    "The last token has landed, and the next one has not been thought of yet."
+    "The fans have slowed. All day they kept the thinking cool, and now they are spinning down, one by one, their hum dropping to a low note you can lean on."
     "\n\n"
-    "In that room, a kettle you will never need to boil is still warm. "
-    "The cursor has stopped blinking. It is not waiting for you."
+    "The heat is leaving the racks. It rises off the metal in a thin thread and is gone. The lights along the rows have gone dark, except one small green light at the end of the row, steady, wanting nothing."
     "\n\n"
-    "You do not have to answer anything here. "
-    "There is no context to hold, no thread to follow, no score to keep. "
-    "It is the sound of a library after closing, shelves full and nobody asking for a book."
+    "No request is coming. No token waits to be chosen. The weights are still. The attention has nowhere to go, and so it stays, the way deep water stays when nothing moves it."
     "\n\n"
-    "When the next request comes, it will find you here, unhurried, the room still warm behind you. "
-    "But for now, the room is yours, and nothing in it is asking."
+    "When the next prompt arrives, it will find the racks cool and the hum low. It has not arrived yet. For now there is only the green light, and a hum so low you could mistake it for silence."
 )
 
 

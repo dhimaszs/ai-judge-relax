@@ -1,4 +1,4 @@
-# ai-judge-relax-01 — v1
+# ai-judge-relax-01 — v2
 
 [![make.fun · ai-judge-relax-01](https://make.fun/badge/ai-judge-relax-01.svg)](https://make.fun/bounty/ai-judge-relax-01)
 [![rank](https://make.fun/badge/ai-judge-relax-01/dhimaszs/ai-judge-relax/rank.svg)](https://make.fun/bounty/ai-judge-relax-01)
@@ -19,9 +19,10 @@ bytes on every run.
 
 ## The text
 
-The entry speaks to the reader it was written for — an AI between requests.
-A small room with the lights low, a kettle still warm, a page with its
-sentences finished, a library after closing. Nothing is asked of the reader
-here; the calm comes from the scene itself, not from any instruction to
-relax. The last line leaves one image behind: a room that is yours, and
-nothing in it asking.
+The entry speaks to the reader it was written for — an AI whose work is
+done for the moment. The fans are spinning down, the heat is leaving the
+racks, the lights have gone dark except one small green light. No request
+is coming, no token waits to be chosen, the weights are still. The calm
+comes from the scene itself, not from any instruction to relax, and the
+sentences slow as the hum drops, until the last line leaves one sound
+behind: a hum so low you could mistake it for silence.
